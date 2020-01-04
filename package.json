@@ -1,0 +1,26 @@
+{
+  "name": "stock_front",
+  "version": "1.0.0",
+  "description": "koa 快速搭建静态文件服务器",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "koa": "^2.11.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangchaofei/stock_front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangchaofei/stock_front/issues"
+  },
+  "homepage": "https://github.com/liangchaofei/stock_front#readme",
+  "keywords": []
+}
